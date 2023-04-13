@@ -6,7 +6,7 @@
 
 |       | **필수 과정** | **선택 과정** | **스페셜 과정** | **저장소** |
 | ----- | ------------- | ------------- | --------------- | ------------- |
-| 1주차 | [HTML (개요, 핵심정리)](https://monsta-zo.github.io/react/%EC%B9%B4%ED%83%9C%EC%BA%A0-1-1/)  | HTML 실무 |                 |               |
+| 1주차 | [HTML (개요, 핵심정리)](https://monsta-zo.github.io/kakaotechcam/%EC%B9%B4%ED%83%9C%EC%BA%A0-1-1/)  | HTML 실무 |                 |               |
 
 ## 🖨️ level2 : 클론 프로젝트
 
