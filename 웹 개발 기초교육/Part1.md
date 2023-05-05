@@ -9,3 +9,4 @@
 | Ch5 | HTML 개요       | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-5/) |
 | Ch6 | HTML 핵심 정리  | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-6/) |
 | Ch7 | CSS 개요 | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-7/)|
+| Ch8 | CSS 속성 | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-8/)|
