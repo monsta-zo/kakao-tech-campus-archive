@@ -10,4 +10,4 @@
 | Ch6 | HTML 핵심 정리  | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-6/) |
 | Ch7 | CSS 개요 | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-7/)|
 | Ch8 | CSS 속성 | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-8/)|
-| Ch8-예제 | Overwatch 캐릭터 선택 | [저장소]()|
+| Ch8-예제 | Overwatch 캐릭터 선택 | [저장소](https://github.com/monsta-zo/overwatch-hero-selector-vanilla)|
