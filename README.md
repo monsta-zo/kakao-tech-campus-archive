@@ -12,6 +12,7 @@
 |2주차|중간고사||
 |3주차|HTML&CSS|[정리](https://github.com/monsta-zo/kakao-tech-campus-archive/blob/main/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%EA%B5%90%EC%9C%A1/Part1.md)
 |4주차|CSS|[정리](https://github.com/monsta-zo/kakao-tech-campus-archive/blob/main/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%EA%B5%90%EC%9C%A1/Part1.md)
+|5주차|자바스크립트 기초| [정리](https://github.com/monsta-zo/kakao-tech-campus-archive/blob/main/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%EA%B5%90%EC%9C%A1/Part1.md)|
 
 ## 🖨️ level2 : 클론 프로젝트
 
