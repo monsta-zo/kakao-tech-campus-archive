@@ -6,7 +6,7 @@
 
 > 필수 과정
 
-[내용 정리](https://github.com/monsta-zo/kakao-tech-campus-archive/blob/main/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%EA%B5%90%EC%9C%A1/Part1.md)
+[[내용 정리]](https://github.com/monsta-zo/kakao-tech-campus-archive/blob/main/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%EA%B5%90%EC%9C%A1/Part1.md)
 
 |       | 내용     | 
 | ----- | -------- | 
