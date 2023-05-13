@@ -17,3 +17,4 @@
 | |내용|과정|정리|
 |---|---|---|---|
 |Ch1|NodeJs|필수과정[5주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-1/)|
+|Ch2|JS 데이터|필수과정[5주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-2/)|
