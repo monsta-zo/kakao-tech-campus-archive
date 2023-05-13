@@ -16,4 +16,4 @@
 ## Part4. JavaScript 마스터
 | |내용|과정|정리|
 |---|---|---|---|
-|Ch1|NodeJs|필수과정[5주차]|[블로그]()|
+|Ch1|NodeJs|필수과정[5주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-1/)|
