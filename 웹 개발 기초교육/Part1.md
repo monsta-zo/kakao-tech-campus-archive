@@ -18,3 +18,4 @@
 |---|---|---|---|
 |Ch1|NodeJs|필수과정[5주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-1/)|
 |Ch2|JS 데이터|필수과정[5주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-2/)|
+|Ch3|연산자와 구문|필수과정[5주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-3/)|
