@@ -12,6 +12,7 @@
 | Ch8 | CSS 속성 |필수과정[3주차,4주차] | [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-8/)|
 | Ch8-예제 | Overwatch 캐릭터 선택|필수과정[4주차] | [저장소](https://github.com/monsta-zo/overwatch-hero-selector-vanilla)|
 | Ch9 | JS 선행 |필수과정[5주차]| [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-9/) |
+| Ch10 | 스타벅스 예제 | 선택과정 | |
 
 ## Part4. JavaScript 마스터
 | |내용|과정|정리|
