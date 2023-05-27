@@ -35,3 +35,7 @@
 |Ch4|함수|필수과정[6주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-4/)|
 |Ch5|클래스|필수과정[6주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-5/)|
 |Ch6|표준 내장 객체|필수과정[6주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-6/)|
+|Ch7|모듈|필수과정|[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-7/)|
+|Ch8|비동기|필수과정|[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-8/)|
+|Ch9|DOM|필수과정|[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-9/)|
+|Ch10|Events|필수과정|[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-10/)|
