@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+    ></script>
+    <div id="root"></div>
+    <script>
+      const rootElement = document.getElementById("root");
+
+      // 요소 생성하기
+      // const element = document.createElement("h1");
+      // element.textContent = "Hello, world!";
+      const element = React.createElement("h1", { children: "Hello, world!" });
+
+      // 요소 렌더링 하기
+      // rootElement.appendChild(element);
+      ReactDOM.render(element, rootElement);
+    </script>
+  </body>
+</html>
