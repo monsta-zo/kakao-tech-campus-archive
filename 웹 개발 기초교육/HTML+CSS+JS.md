@@ -14,12 +14,6 @@
 | Ch9 | JS 선행 |필수과정[5주차]| [블로그](https://monsta-zo.github.io/kakaotechcam/KTC-1-9/) |
 | Ch10 | 스타벅스 예제 | 선택과정 | |
 
-## Part2. Git을 활용한 버전관리
-||내용|과정|정리|
-|---|---|---|---|
-| Ch1 | 버전관리 | 선택과정||
-| Ch2 | 마크다운 | 선택과정||
-
 ## Part3. 애플 아이패드 반응형 웹사이트
 ||내용|과정|정리|
 |---|---|---|---
@@ -39,3 +33,7 @@
 |Ch8|비동기|필수과정[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-8/)|
 |Ch9|DOM|필수과정[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-9/)|
 |Ch10|Events|필수과정[7주차]|[블로그](https://monsta-zo.github.io/kakaotechcam/KTC-4-10/)|
+|Ch11|기타 Web APIs|선택과정||
+|Ch12|심화 학습|선택과정||
+|Ch13|정규 표현식|선택과정||
+|Ch14|API를 활용한 영화 검색 사이트|선택과정||
