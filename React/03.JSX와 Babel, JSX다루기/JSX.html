@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <div id="root"></div>
+
+    <script type="text/babel">
+      const rootElement = document.getElementById("root");
+
+      const text = "Hello, world!";
+      const titleClassName = "title123";
+      const customH1 = <h1 className={titleClassName}>{text}</h1>;
+      const element = customH1;
+      ReactDOM.render(element, rootElement);
+    </script>
+  </body>
+</html>
