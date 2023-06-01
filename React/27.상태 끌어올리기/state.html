@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <script
+      crossorigin
+      src="https://unpkg.com/react@18/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <div id="root"></div>
+
+    <script type="text/babel">
+      const rootElement = document.getElementById("root");
+
+      const Id = ({ handleIdChange }) => {
+        return (
+          <>
+            <label>ID: </label>
+            <input onChange={handleIdChange} />
+          </>
+        );
+      };
+      const Password = ({ handlePasswordChange }) => {
+        return (
+          <>
+            <label>PW: </label>
+            <input type="password" onChange={handlePasswordChange} />
+          </>
+        );
+      };
+      const App = () => {
+        const [id, setId] = React.useState("");
+
+        const [password, setPassword] = React.useState("");
+
+        const handleIdChange = (event) => {
+          setId(event.target.value);
+        };
+
+        const handlePasswordChange = (event) => {
+          setPassword(event.target.value);
+        };
+        const handleLoginClick = () => {
+          alert(`id: ${id}, pw: ${password}`);
+        };
+        return (
+          <>
+            <Id handleIdChange={handleIdChange} />
+            <br />
+            <Password handlePasswordChange={handlePasswordChange} />
+            <button
+              disabled={id.length === 0 || password.length === 0}
+              onClick={handleLoginClick}
+            >
+              LOGIN
+            </button>
+          </>
+        );
+      };
+
+      ReactDOM.render(<App />, rootElement);
+    </script>
+  </body>
+</html>

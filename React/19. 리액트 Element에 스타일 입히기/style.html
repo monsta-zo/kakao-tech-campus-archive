@@ -1,0 +1,21 @@
+<script type="text/babel">
+  function Button({ className = "", color, style, ...rest }) {
+    return (
+      <button
+        className={`button ${className} ${color}`}
+        style={{ fontSize: 50, ...style }}
+        {...rest}
+      />
+    );
+  }
+
+  const element = (
+    <>
+      <Button stlye={{ borderRadius: "50%" }}>Green</Button>
+      <Button color="blue" stlye={{ borderRadius: 8, fontSize: 20 }}>
+        Blue
+      </Button>
+      <Button color="red">Red</Button>
+    </>
+  );
+</script>
