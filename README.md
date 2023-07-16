@@ -24,5 +24,6 @@
 | | 과제 설명 | 저장소 |
 |---|---| ---|
 |1주차| [링크](https://github.com/Kakao-tech-campus-FE/Step-2.-Week-1)| [링크]()
+|2주차| [링크]
 
 ## 🧑‍💻 level3 : 신규 서비스 개발 프로젝트
